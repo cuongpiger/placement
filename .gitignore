@@ -47,3 +47,5 @@ doc/source/_static/placement.policy.yaml.sample
 
  # Files created by releasenotes build
 releasenotes/build
+
+.idea
